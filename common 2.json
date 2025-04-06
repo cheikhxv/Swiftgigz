@@ -1,0 +1,187 @@
+{
+  "common": {
+    "language": {
+      "fr": "Français",
+      "nl": "Nederlands",
+      "en": "English"
+    },
+    "navigation": {
+      "home": "Accueil",
+      "workers": "Travailleurs",
+      "employers": "Employeurs",
+      "how_it_works": "Fonctionnement",
+      "pricing": "Tarifs",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "pre_register": "Préinscription",
+      "learn_more": "En savoir plus",
+      "looking_for_job": "Je cherche un job",
+      "looking_for_worker": "Je cherche un travailleur",
+      "contact_us": "Contactez-nous",
+      "submit": "Envoyer",
+      "close": "Fermer"
+    },
+    "footer": {
+      "quick_links": "Liens rapides",
+      "resources": "Ressources",
+      "legal": "Légal",
+      "languages": "Langues",
+      "support": "Support",
+      "legal_mentions": "Mentions légales",
+      "privacy_policy": "Politique de confidentialité",
+      "terms_of_use": "Conditions d'utilisation",
+      "copyright": "© 2025 Swiftgigz. Tous droits réservés."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Trouvez un job ou un travailleur en quelques minutes",
+      "subtitle": "Swiftgigz connecte travailleurs et employeurs pour des missions ponctuelles en Belgique"
+    },
+    "features": {
+      "title": "Pourquoi choisir Swiftgigz?",
+      "speed": {
+        "title": "Rapidité",
+        "description": "Trouvez un job ou un travailleur en quelques minutes seulement, même pour le jour même."
+      },
+      "flexibility": {
+        "title": "Flexibilité",
+        "description": "Travaillez quand vous voulez, où vous voulez, selon vos disponibilités."
+      },
+      "reliability": {
+        "title": "Fiabilité",
+        "description": "Profils vérifiés et système d'évaluation pour garantir la qualité des prestations."
+      }
+    },
+    "how_it_works": {
+      "title": "Comment ça marche?",
+      "step1": {
+        "title": "Inscrivez-vous",
+        "description": "Créez votre profil en quelques minutes, ajoutez vos compétences et disponibilités."
+      },
+      "step2": {
+        "title": "Trouvez des missions",
+        "description": "Parcourez les offres disponibles ou activez le mode \"disponible maintenant\"."
+      },
+      "step3": {
+        "title": "Travaillez et gagnez",
+        "description": "Réalisez vos missions et recevez votre paiement rapidement et en toute sécurité."
+      }
+    },
+    "cta": {
+      "title": "Prêt à rejoindre Swiftgigz?",
+      "subtitle": "Préinscrivez-vous dès maintenant pour être parmi les premiers à utiliser l'application lors de son lancement.",
+      "button": "Je me préinscris"
+    }
+  },
+  "workers": {
+    "hero": {
+      "title": "Trouvez des missions qui s'adaptent à votre vie",
+      "subtitle": "Travaillez quand vous voulez, où vous voulez, et gagnez un revenu complémentaire en toute flexibilité."
+    },
+    "benefits": {
+      "title": "Avantages pour les travailleurs",
+      "flexibility": {
+        "title": "Flexibilité horaire",
+        "description": "Choisissez vos horaires et travaillez selon vos disponibilités, même quelques heures par semaine."
+      },
+      "payment": {
+        "title": "Paiement rapide",
+        "description": "Recevez votre paiement rapidement après chaque mission, sans attendre la fin du mois."
+      },
+      "reputation": {
+        "title": "Réputation",
+        "description": "Construisez votre réputation grâce aux évaluations et augmentez vos opportunités."
+      }
+    },
+    "how_it_works": {
+      "title": "Comment ça marche pour les travailleurs",
+      "step1": {
+        "title": "Créez votre profil",
+        "description": "Inscrivez-vous, ajoutez vos compétences, expériences et préférences de travail."
+      },
+      "step2": {
+        "title": "Définissez vos disponibilités",
+        "description": "Indiquez quand vous êtes disponible et activez le mode \"disponible maintenant\" pour les missions immédiates."
+      },
+      "step3": {
+        "title": "Acceptez des missions",
+        "description": "Recevez des propositions de mission et choisissez celles qui vous conviennent."
+      },
+      "step4": {
+        "title": "Travaillez et soyez évalué",
+        "description": "Réalisez vos missions, recevez votre paiement et construisez votre réputation."
+      }
+    },
+    "cta": {
+      "title": "Prêt à trouver des missions flexibles?",
+      "subtitle": "Rejoignez les milliers de travailleurs qui ont déjà choisi Swiftgigz pour trouver des missions adaptées à leur emploi du temps.",
+      "button": "Je me préinscris"
+    }
+  },
+  "employers": {
+    "hero": {
+      "title": "Personnel qualifié à la demande",
+      "subtitle": "Trouvez le bon profil en quelques minutes pour vos besoins ponctuels."
+    },
+    "problems_solved": {
+      "title": "Problèmes résolus",
+      "absence": {
+        "title": "Absences imprévues",
+        "description": "Remplacez rapidement un employé absent sans perturber votre activité."
+      },
+      "peak": {
+        "title": "Pics d'activité",
+        "description": "Renforcez vos équipes pendant les périodes de forte affluence."
+      },
+      "paperwork": {
+        "title": "Paperasse administrative",
+        "description": "Simplifiez la gestion administrative des contrats courts."
+      }
+    },
+    "benefits": {
+      "title": "Avantages pour les employeurs",
+      "reactivity": {
+        "title": "Réactivité",
+        "description": "Trouvez du personnel qualifié en quelques minutes, même pour le jour même."
+      },
+      "quality": {
+        "title": "Qualité",
+        "description": "Accédez à des profils vérifiés et évalués par d'autres employeurs."
+      },
+      "simplicity": {
+        "title": "Simplicité",
+        "description": "Gérez tout depuis l'application : recherche, sélection, paiement."
+      }
+    },
+    "cta": {
+      "title": "Besoin de personnel flexible?",
+      "subtitle": "Rejoignez les entreprises qui font confiance à Swiftgigz pour leurs besoins en personnel.",
+      "button": "Contactez-nous"
+    }
+  },
+  "pre_register": {
+    "title": "Préinscription",
+    "subtitle": "Soyez parmi les premiers à utiliser Swiftgigz lors de son lancement. Préinscrivez-vous dès maintenant!",
+    "form": {
+      "user_type": "Je suis:",
+      "worker": "Travailleur",
+      "employer": "Employeur",
+      "full_name": "Nom complet*",
+      "email": "Email*",
+      "phone": "Téléphone*",
+      "sectors": "Secteurs d'intérêt",
+      "message": "Message (optionnel)",
+      "consent": "J'accepte de recevoir des informations sur le lancement de Swiftgigz et je comprends que mes données seront traitées conformément à la politique de confidentialité.",
+      "submit": "Je me préinscris",
+      "required_fields": "* Champs obligatoires"
+    },
+    "confirmation": {
+      "title": "Merci pour votre préinscription!",
+      "message": "Nous vous contacterons dès que l'application sera disponible. En attendant, n'hésitez pas à nous suivre sur les réseaux sociaux pour rester informé."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "common": {
+    "language": {
+      "fr": "Français",
+      "nl": "Nederlands",
+      "en": "English"
+    },
+    "navigation": {
+      "home": "Home",
+      "workers": "Workers",
+      "employers": "Employers",
+      "how_it_works": "How it works",
+      "pricing": "Pricing",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "pre_register": "Pre-register",
+      "learn_more": "Learn more",
+      "looking_for_job": "I'm looking for a job",
+      "looking_for_worker": "I'm looking for a worker",
+      "contact_us": "Contact us",
+      "submit": "Submit",
+      "close": "Close"
+    },
+    "footer": {
+      "quick_links": "Quick links",
+      "resources": "Resources",
+      "legal": "Legal",
+      "languages": "Languages",
+      "support": "Support",
+      "legal_mentions": "Legal mentions",
+      "privacy_policy": "Privacy policy",
+      "terms_of_use": "Terms of use",
+      "copyright": "© 2025 Swiftgigz. All rights reserved."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Find a job or a worker in minutes",
+      "subtitle": "Swiftgigz connects workers and employers for temporary assignments in Belgium"
+    },
+    "features": {
+      "title": "Why choose Swiftgigz?",
+      "speed": {
+        "title": "Speed",
+        "description": "Find a job or a worker in just a few minutes, even for the same day."
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "description": "Work when you want, where you want, according to your availability."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "Verified profiles and rating system to ensure quality service."
+      }
+    },
+    "how_it_works": {
+      "title": "How does it work?",
+      "step1": {
+        "title": "Sign up",
+        "description": "Create your profile in minutes, add your skills and availability."
+      },
+      "step2": {
+        "title": "Find assignments",
+        "description": "Browse available offers or activate the \"available now\" mode."
+      },
+      "step3": {
+        "title": "Work and earn",
+        "description": "Complete your assignments and receive your payment quickly and securely."
+      }
+    },
+    "cta": {
+      "title": "Ready to join Swiftgigz?",
+      "subtitle": "Pre-register now to be among the first to use the application when it launches.",
+      "button": "I pre-register"
+    }
+  },
+  "workers": {
+    "hero": {
+      "title": "Find assignments that fit your life",
+      "subtitle": "Work when you want, where you want, and earn extra income with complete flexibility."
+    },
+    "benefits": {
+      "title": "Benefits for workers",
+      "flexibility": {
+        "title": "Flexible hours",
+        "description": "Choose your hours and work according to your availability, even just a few hours per week."
+      },
+      "payment": {
+        "title": "Fast payment",
+        "description": "Receive your payment quickly after each assignment, without waiting until the end of the month."
+      },
+      "reputation": {
+        "title": "Reputation",
+        "description": "Build your reputation through ratings and increase your opportunities."
+      }
+    },
+    "how_it_works": {
+      "title": "How it works for workers",
+      "step1": {
+        "title": "Create your profile",
+        "description": "Sign up, add your skills, experience, and work preferences."
+      },
+      "step2": {
+        "title": "Set your availability",
+        "description": "Indicate when you're available and activate the \"available now\" mode for immediate assignments."
+      },
+      "step3": {
+        "title": "Accept assignments",
+        "description": "Receive assignment proposals and choose the ones that suit you."
+      },
+      "step4": {
+        "title": "Work and get rated",
+        "description": "Complete your assignments, receive your payment, and build your reputation."
+      }
+    },
+    "cta": {
+      "title": "Ready to find flexible assignments?",
+      "subtitle": "Join thousands of workers who have already chosen Swiftgigz to find assignments that fit their schedule.",
+      "button": "I pre-register"
+    }
+  },
+  "employers": {
+    "hero": {
+      "title": "Qualified staff on demand",
+      "subtitle": "Find the right profile in minutes for your temporary needs."
+    },
+    "problems_solved": {
+      "title": "Problems solved",
+      "absence": {
+        "title": "Unexpected absences",
+        "description": "Quickly replace an absent employee without disrupting your activity."
+      },
+      "peak": {
+        "title": "Activity peaks",
+        "description": "Strengthen your teams during periods of high demand."
+      },
+      "paperwork": {
+        "title": "Administrative paperwork",
+        "description": "Simplify the administrative management of short-term contracts."
+      }
+    },
+    "benefits": {
+      "title": "Benefits for employers",
+      "reactivity": {
+        "title": "Reactivity",
+        "description": "Find qualified staff in minutes, even for the same day."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Access verified profiles rated by other employers."
+      },
+      "simplicity": {
+        "title": "Simplicity",
+        "description": "Manage everything from the app: search, selection, payment."
+      }
+    },
+    "cta": {
+      "title": "Need flexible staff?",
+      "subtitle": "Join the companies that trust Swiftgigz for their staffing needs.",
+      "button": "Contact us"
+    }
+  },
+  "pre_register": {
+    "title": "Pre-registration",
+    "subtitle": "Be among the first to use Swiftgigz when it launches. Pre-register now!",
+    "form": {
+      "user_type": "I am:",
+      "worker": "Worker",
+      "employer": "Employer",
+      "full_name": "Full name*",
+      "email": "Email*",
+      "phone": "Phone*",
+      "sectors": "Sectors of interest",
+      "message": "Message (optional)",
+      "consent": "I agree to receive information about the launch of Swiftgigz and I understand that my data will be processed in accordance with the privacy policy.",
+      "submit": "I pre-register",
+      "required_fields": "* Required fields"
+    },
+    "confirmation": {
+      "title": "Thank you for pre-registering!",
+      "message": "We will contact you as soon as the application is available. In the meantime, feel free to follow us on social media to stay informed."
+    }
+  }
+}

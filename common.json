@@ -1,0 +1,187 @@
+{
+  "common": {
+    "language": {
+      "fr": "Français",
+      "nl": "Nederlands",
+      "en": "English"
+    },
+    "navigation": {
+      "home": "Home",
+      "workers": "Werknemers",
+      "employers": "Werkgevers",
+      "how_it_works": "Hoe het werkt",
+      "pricing": "Tarieven",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "pre_register": "Voorinschrijving",
+      "learn_more": "Meer weten",
+      "looking_for_job": "Ik zoek een job",
+      "looking_for_worker": "Ik zoek een werknemer",
+      "contact_us": "Contacteer ons",
+      "submit": "Verzenden",
+      "close": "Sluiten"
+    },
+    "footer": {
+      "quick_links": "Snelle links",
+      "resources": "Bronnen",
+      "legal": "Juridisch",
+      "languages": "Talen",
+      "support": "Ondersteuning",
+      "legal_mentions": "Juridische vermeldingen",
+      "privacy_policy": "Privacybeleid",
+      "terms_of_use": "Gebruiksvoorwaarden",
+      "copyright": "© 2025 Swiftgigz. Alle rechten voorbehouden."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Vind een job of een werknemer in enkele minuten",
+      "subtitle": "Swiftgigz verbindt werknemers en werkgevers voor tijdelijke opdrachten in België"
+    },
+    "features": {
+      "title": "Waarom kiezen voor Swiftgigz?",
+      "speed": {
+        "title": "Snelheid",
+        "description": "Vind een job of een werknemer in slechts enkele minuten, zelfs voor dezelfde dag."
+      },
+      "flexibility": {
+        "title": "Flexibiliteit",
+        "description": "Werk wanneer je wilt, waar je wilt, volgens je beschikbaarheid."
+      },
+      "reliability": {
+        "title": "Betrouwbaarheid",
+        "description": "Geverifieerde profielen en beoordelingssysteem om de kwaliteit van de diensten te garanderen."
+      }
+    },
+    "how_it_works": {
+      "title": "Hoe werkt het?",
+      "step1": {
+        "title": "Schrijf je in",
+        "description": "Maak je profiel aan in enkele minuten, voeg je vaardigheden en beschikbaarheid toe."
+      },
+      "step2": {
+        "title": "Vind opdrachten",
+        "description": "Bekijk de beschikbare aanbiedingen of activeer de modus \"nu beschikbaar\"."
+      },
+      "step3": {
+        "title": "Werk en verdien",
+        "description": "Voer je opdrachten uit en ontvang je betaling snel en veilig."
+      }
+    },
+    "cta": {
+      "title": "Klaar om je bij Swiftgigz aan te sluiten?",
+      "subtitle": "Schrijf je nu alvast in om bij de eersten te zijn die de applicatie kunnen gebruiken bij de lancering.",
+      "button": "Ik schrijf me in"
+    }
+  },
+  "workers": {
+    "hero": {
+      "title": "Vind opdrachten die bij je leven passen",
+      "subtitle": "Werk wanneer je wilt, waar je wilt, en verdien een aanvullend inkomen met volledige flexibiliteit."
+    },
+    "benefits": {
+      "title": "Voordelen voor werknemers",
+      "flexibility": {
+        "title": "Flexibele uren",
+        "description": "Kies je uren en werk volgens je beschikbaarheid, zelfs enkele uren per week."
+      },
+      "payment": {
+        "title": "Snelle betaling",
+        "description": "Ontvang je betaling snel na elke opdracht, zonder te wachten tot het einde van de maand."
+      },
+      "reputation": {
+        "title": "Reputatie",
+        "description": "Bouw je reputatie op dankzij beoordelingen en vergroot je kansen."
+      }
+    },
+    "how_it_works": {
+      "title": "Hoe werkt het voor werknemers",
+      "step1": {
+        "title": "Maak je profiel aan",
+        "description": "Schrijf je in, voeg je vaardigheden, ervaring en werkvoorkeuren toe."
+      },
+      "step2": {
+        "title": "Bepaal je beschikbaarheid",
+        "description": "Geef aan wanneer je beschikbaar bent en activeer de modus \"nu beschikbaar\" voor onmiddellijke opdrachten."
+      },
+      "step3": {
+        "title": "Accepteer opdrachten",
+        "description": "Ontvang opdrachtvoorstellen en kies degene die bij je passen."
+      },
+      "step4": {
+        "title": "Werk en word beoordeeld",
+        "description": "Voer je opdrachten uit, ontvang je betaling en bouw je reputatie op."
+      }
+    },
+    "cta": {
+      "title": "Klaar om flexibele opdrachten te vinden?",
+      "subtitle": "Sluit je aan bij de duizenden werknemers die al voor Swiftgigz hebben gekozen om opdrachten te vinden die bij hun schema passen.",
+      "button": "Ik schrijf me in"
+    }
+  },
+  "employers": {
+    "hero": {
+      "title": "Gekwalificeerd personeel op aanvraag",
+      "subtitle": "Vind het juiste profiel in enkele minuten voor je tijdelijke behoeften."
+    },
+    "problems_solved": {
+      "title": "Opgeloste problemen",
+      "absence": {
+        "title": "Onverwachte afwezigheden",
+        "description": "Vervang snel een afwezige werknemer zonder je activiteit te verstoren."
+      },
+      "peak": {
+        "title": "Activiteitspieken",
+        "description": "Versterk je teams tijdens periodes van grote drukte."
+      },
+      "paperwork": {
+        "title": "Administratieve rompslomp",
+        "description": "Vereenvoudig het administratieve beheer van korte contracten."
+      }
+    },
+    "benefits": {
+      "title": "Voordelen voor werkgevers",
+      "reactivity": {
+        "title": "Reactiviteit",
+        "description": "Vind gekwalificeerd personeel in enkele minuten, zelfs voor dezelfde dag."
+      },
+      "quality": {
+        "title": "Kwaliteit",
+        "description": "Krijg toegang tot geverifieerde profielen die door andere werkgevers zijn beoordeeld."
+      },
+      "simplicity": {
+        "title": "Eenvoud",
+        "description": "Beheer alles vanuit de applicatie: zoeken, selecteren, betalen."
+      }
+    },
+    "cta": {
+      "title": "Behoefte aan flexibel personeel?",
+      "subtitle": "Sluit je aan bij de bedrijven die Swiftgigz vertrouwen voor hun personeelsbehoeften.",
+      "button": "Contacteer ons"
+    }
+  },
+  "pre_register": {
+    "title": "Voorinschrijving",
+    "subtitle": "Wees bij de eersten die Swiftgigz kunnen gebruiken bij de lancering. Schrijf je nu alvast in!",
+    "form": {
+      "user_type": "Ik ben:",
+      "worker": "Werknemer",
+      "employer": "Werkgever",
+      "full_name": "Volledige naam*",
+      "email": "E-mail*",
+      "phone": "Telefoon*",
+      "sectors": "Interessegebieden",
+      "message": "Bericht (optioneel)",
+      "consent": "Ik ga ermee akkoord informatie te ontvangen over de lancering van Swiftgigz en ik begrijp dat mijn gegevens zullen worden verwerkt in overeenstemming met het privacybeleid.",
+      "submit": "Ik schrijf me in",
+      "required_fields": "* Verplichte velden"
+    },
+    "confirmation": {
+      "title": "Bedankt voor je inschrijving!",
+      "message": "We nemen contact met je op zodra de applicatie beschikbaar is. In de tussentijd kun je ons volgen op sociale media om op de hoogte te blijven."
+    }
+  }
+}
